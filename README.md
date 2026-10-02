@@ -95,3 +95,4 @@ Good simple options:
 - Cloudflare Pages
 
 Once published, generate a QR code using the final website URL and place it on your poster.
+# IUFoST-Poster-2026
